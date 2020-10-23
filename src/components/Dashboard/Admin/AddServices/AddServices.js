@@ -9,6 +9,8 @@ const AddServices = () => {
                     <Sidebar />
                 </div>
                 <div className="col-md-10">
+                <input type="text" className="form-control"/>
+                    
                     <input type="text" className="form-control"/>
                 </div>
             </div>
